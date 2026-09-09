@@ -1,0 +1,12 @@
+{
+  "algorithm": "sha256",
+  "entries": [
+    {
+      "bytes": 36,
+      "path": "hello.txt",
+      "sha256": "9b2bbe0aee7290a5a5e799ff807c1ded7327531b42fb3b3957d40763a69103a6"
+    }
+  ],
+  "pathEncoding": "utf8-nfc",
+  "schemaVersion": 1
+}
